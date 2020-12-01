@@ -92,10 +92,6 @@ section {
     background-size: cover;
     background-position: center;
     position: relative;
-    margin: 20px;
-    background-color: white;
-    font-size: 20px;
-    color: blue;
 }
 
 .hero-form {
