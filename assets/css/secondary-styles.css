@@ -18,3 +18,8 @@
     font-weight: normal;
     font-style: italic;
 }
+
+.privacy-footer div {
+    margin-bottom: 10px;
+    font-size: 40px;
+}
