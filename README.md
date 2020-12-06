@@ -12,3 +12,6 @@ https://lernantino.github.io/run-buddy/daxburatto
 
 ## Contribution
 Made with ❤️ by [Dax Buratto]
+
+
+# Run Buddy Inc.
