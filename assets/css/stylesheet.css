@@ -261,6 +261,18 @@ section {
     font-size: 17px;
 }
 
+.service-grid-container {
+   
+}
+
+.service-grid-item {
+    
+}
+
+.grid-container {
+    justify-items: start;
+}
+
 .contact {
     background-color: #024e76;
 }
