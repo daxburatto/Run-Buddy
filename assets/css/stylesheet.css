@@ -65,7 +65,7 @@ header nav ul li a {
 }
 
 header nav ul li a:hover {
-    background-position: var(--primary-color);
+    background-color: var(--primary-color);
     color:var(--secondary-color);
     border-radius: 15px;
     text-shadow: none;
@@ -149,7 +149,7 @@ section {
 }
 
 .hero-form {
-    background-color: var(--primary-color);
+    background-color: rgba(255, 225, 56, 0.8);
     padding: 20px;
     color: var(--secondary-color);
     border: solid 3px var(--secondary-color);
@@ -327,8 +327,8 @@ section {
 }
 
 .trainer {
+    margin: 20px;
     text-align: center;
-    margin: 0 auto 20px auto;
     background: var(--secondary-color);
     color: var(--primary-color);
     flex: 1;
